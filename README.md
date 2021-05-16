@@ -1,4 +1,4 @@
-"# appointmentbackend" 
+# appointmentbackend 
 Download the project using the below command
 ```
 git clone https://github.com/shwey0409/appointmentbackend.git
